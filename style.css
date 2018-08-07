@@ -80,6 +80,7 @@
     color: rgb(210, 210, 0);
     text-align: center;
     list-style-position: inside;
+    list-style-type: none;
 }
 .sidebar ul li{
     padding: 5px;
